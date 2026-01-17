@@ -20,13 +20,13 @@ Color={{ self::rgb(color=base) }}
 Color={{ self::rgb(color=base) }}
 
 [Color0]
-Color={{ self::rgb(color=overlay0) }}
+Color={{ self::rgb(color=surface1) }}
 
 [Color0Faint]
-Color={{ self::rgb(color=overlay0) }}
+Color={{ self::rgb(color=surface1) }}
 
 [Color0Intense]
-Color={{ self::rgb(color=overlay0) }}
+Color={{ self::rgb(color=surface2) }}
 
 [Color1]
 Color={{ self::rgb(color=red) }}
@@ -65,31 +65,31 @@ Color={{ self::rgb(color=blue) }}
 Color={{ self::rgb(color=blue) }}
 
 [Color5]
-Color={{ self::rgb(color=mauve) }}
+Color={{ self::rgb(color=pink) }}
 
 [Color5Faint]
-Color={{ self::rgb(color=mauve) }}
+Color={{ self::rgb(color=pink) }}
 
 [Color5Intense]
-Color={{ self::rgb(color=mauve) }}
+Color={{ self::rgb(color=pink) }}
 
 [Color6]
-Color={{ self::rgb(color=sky) }}
+Color={{ self::rgb(color=teal) }}
 
 [Color6Faint]
-Color={{ self::rgb(color=sky) }}
+Color={{ self::rgb(color=teal) }}
 
 [Color6Intense]
-Color={{ self::rgb(color=sky) }}
+Color={{ self::rgb(color=teal) }}
 
 [Color7]
-Color={{ self::rgb(color=text) }}
+Color={{ self::rgb(color=subtext1) }}
 
 [Color7Faint]
-Color={{ self::rgb(color=text) }}
+Color={{ self::rgb(color=subtext1) }}
 
 [Color7Intense]
-Color={{ self::rgb(color=text) }}
+Color={{ self::rgb(color=subtext0) }}
 
 [Foreground]
 Color={{ self::rgb(color=text) }}
